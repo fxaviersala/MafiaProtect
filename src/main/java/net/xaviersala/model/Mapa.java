@@ -21,6 +21,7 @@ public class Mapa {
 
     /**
      * Carrega un mapa a partir de les línies rebudes.
+     *
      * @param linies línies que representen el mapa
      * @throws MafiaException per retornar errors
      */
@@ -28,6 +29,7 @@ public class Mapa {
 
         // Per si ja havíen fet servir l'objecte
         cases  = new ArrayList<>();
+
         // Comprovem que el mapa rebut estigui bé
         if (linies == null) {
             throw new MafiaException("El mapa és incorrecte");

@@ -24,10 +24,9 @@ public class Casella {
 
     @Override
     public String toString() {
-        return "Casella{" +
-                "x=" + x +
-                ", y=" + y +
-                '}';
+        return "(" + x +
+                "," + y +
+                ')';
     }
 
     /**

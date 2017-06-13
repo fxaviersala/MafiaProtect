@@ -24,10 +24,11 @@ public class App {
         Lector lector = new Lector();
 
         try {
-
+            // Carregar els fitxers
             String[] mapallegit = lector.llegirMapa(NOM_MAPA + ".txt");
             String[] rutes = lector.llegirRutes(NOM_MAPA + "-rutes.txt");
 
+            // Imprimeix per pantalla
             imprimeix(mapallegit);
             imprimeix(rutes);
 

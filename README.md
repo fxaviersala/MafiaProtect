@@ -3,7 +3,7 @@
 La protecció s'ha de pagar
 =============================================
 
-Darrerament alguns dels cobradors del servei de “proteccions” que ofereix el Capo Alfredo s'oblidaven d'anar a cobrar a alguns llocs. Per això el capo Alfredo va decidir informatitzar els “serveis de protecció” que proporciona als locals dels diferents barris del seu territori i va contractar un informàtic que li preparés un programa que permetés assegurar-se de que sempre es cobren TOTES les “proteccions”. 
+Darrerament alguns dels cobradors del servei de “proteccions” que ofereix el Capo Alfredo s'oblidaven d'anar a cobrar a alguns llocs. Per això el capo Alfredo va decidir informatitzar els “serveis de protecció” que proporciona als locals dels diferents barris del seu territori i va contractar un informàtic que li preparés un programa que permetés assegurar-se que sempre es cobren TOTES les “proteccions”. 
  
 L'informàtic va fer un programa que genera un plànol dels llocs a cobrar basat en les coordenades cartesianes (x, y) i una llista amb les instruccions a seguir pels cobradors.
 
